@@ -198,7 +198,7 @@
             <mxPoint x="1173" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nCOjrMMreZHOlyIXvPK4-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;参数&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;上下班时间&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;离岗、玩手机检测时间间隔&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;声贝检测参数&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nCOjrMMreZHOlyIXvPK4-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;配置参数&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;上下班时间&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;离岗、玩手机检测时间间隔&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;声贝检测参数&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="1000" width="180" height="130" as="geometry" />
         </mxCell>
       </root>
